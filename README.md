@@ -14,7 +14,7 @@ A stateless, JS-only, animated, draggable switch component that maintains itself
 
 ## Getting started
 
-`yarn add react-native-draggble-switch`
+`yarn add react-native-draggable-switch`
 
 ## Usage
 
